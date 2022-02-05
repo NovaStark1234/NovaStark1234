@@ -1,7 +1,7 @@
 # Hello, I'm NovaStark1245
 ```
     <?php
-        echo 'Yo, welcome to NovaStatk1245's GitHub profile';
+        echo 'Yo, welcome to NovaStark1245's GitHub profile';
     ?>
 ```
 ![](https://komarev.com/ghpvc/?username=NovaStark1234&color=green)
