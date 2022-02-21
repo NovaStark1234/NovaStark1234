@@ -1,5 +1,5 @@
 # Hello, I'm NovaStark1245
-```
+```php
     <?php
         echo 'Yo, welcome to NovaStark1245's GitHub profile';
     ?>
