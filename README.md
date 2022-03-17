@@ -1,4 +1,7 @@
 # Hello, I'm NovaStark1245
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Normal+coder;Code+is+my+life)](https://git.io/typing-svg)
+
 ```
     <?php
         echo 'Yo, welcome to NovaStark1245's GitHub profile';
