@@ -5,6 +5,7 @@
 ```
     <?php
         echo 'Yo, welcome to NovaStark1245's GitHub profile';
+        echo 'Try to learn C++, D, Perl and Java';
     ?>
 ```
 ![](https://komarev.com/ghpvc/?username=NovaStark1234&color=green)
