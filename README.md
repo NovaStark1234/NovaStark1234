@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+developer;Try+to+learn+Java)](.)
 
-```
+```php
     <?php
-        echo 'Yo, welcome to NovaStark1245's GitHub profile';
-        echo 'Try to learn C++, D, Perl and Java (Current: Java)';
+        echo "Yo, welcome to NovaStark1245's GitHub profile";
+        echo "Try to learn C++, D, Perl and Java (Current: Java)";
     ?>
 ```
 ![](https://komarev.com/ghpvc/?username=NovaStark1234&color=green)
