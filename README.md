@@ -1,11 +1,11 @@
 # Hello, I'm NovaStark1245
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Normal+coder;Code+is+my+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+developer;Try+to+learn+Java)](.)
 
 ```
     <?php
         echo 'Yo, welcome to NovaStark1245's GitHub profile';
-        echo 'Try to learn C++, D, Perl and Java';
+        echo 'Try to learn C++, D, Perl and Java (Current: Java)';
     ?>
 ```
 ![](https://komarev.com/ghpvc/?username=NovaStark1234&color=green)
