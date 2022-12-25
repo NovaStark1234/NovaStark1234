@@ -1,6 +1,6 @@
 # Hello, I'm NovaStark1245
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+developer;Try+to+learn+Java)](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sussybaka+user;Whoooh,+hello+my+dude)](.)
 
 ```php
     <?php
